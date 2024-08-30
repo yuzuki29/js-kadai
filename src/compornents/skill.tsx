@@ -17,10 +17,10 @@ const Skill: FC = () => {
           margin: 20px;
           font-size: 26px;
         }
-          #skill{
-padding-left: 570px;
-margin-bottom: 20px
-          }
+        #skill {
+          padding-left: 570px;
+          margin-bottom: 20px;
+        }
       `}</style>
     </>
   );

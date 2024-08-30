@@ -19,7 +19,7 @@ const Profile: FC = () => {
             血液型 : <span id="blood">B型</span>
           </p>
           <p>
-            mail : <span id="mail">yuduyama0721@gmail.com</span>
+            mail : <span id="mail">y.yamahata.sys23@morijyobi.ac.jp</span>
           </p>
         </div>
       </div>
